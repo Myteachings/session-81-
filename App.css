@@ -1,0 +1,23 @@
+.App {
+  text-align: center;
+}
+
+.App-logo {
+  height: 40vmin;
+  pointer-events: none;
+}
+
+body {
+    font-family: 'Montserrat', sans-serif;
+    padding:40 px;
+}
+img{
+    box-align:center;
+    border: 2px red solid;
+}
+h1{
+    color:blue
+}
+h2{
+    color:blueviolet
+}
